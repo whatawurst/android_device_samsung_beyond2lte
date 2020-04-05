@@ -19,6 +19,8 @@ include vendor/samsung/beyond2lte/BoardConfigVendor.mk
 
 DEVICE_PATH := device/samsung/beyond2lte
 
+TARGET_OTA_ASSERT_DEVICE := beyond2,beyond2lte,beyond2ltexx
+
 PRODUCT_PLATFORM := exynos9820
 
 ### KERNEL
