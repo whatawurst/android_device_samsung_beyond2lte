@@ -26,7 +26,7 @@ How to build LineageOS
             <project name="whatawurst/android_device_samsung_beyond2lte" path="device/samsung/beyond2lte" />
             <project name="whatawurst/android_device_samsung_exynos9820-common" path="device/samsung/exynos9820-common" remote="github" />
             <project name="whatawurst/android_kernel_samsung_exynos9820" path="kernel/samsung/exynos9820" remote="github" />
-            <project name="whatawurst/android_vendor_samsung_beyond2lte" path="vendor/samsung/beyond0lte" remote="github" />
+            <project name="whatawurst/android_vendor_samsung_beyond2lte" path="vendor/samsung/beyond2lte" remote="github" />
             <project name="LineageOS/android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" remote="github" />
         </manifest>
 
