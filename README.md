@@ -3,7 +3,7 @@
 Description
 -----------
 
-This repository is to build LineageOS for the S10e (SM-G975F)
+This repository is to build LineageOS for the S10+ (SM-G975F)
 
 How to build LineageOS
 ----------------------
