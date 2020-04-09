@@ -5,6 +5,24 @@ Description
 
 This repository is to build LineageOS for the S10+ (SM-G975F)
 
+
+Device Specs
+-----------
+ 
+ Basic   | Spec Sheet
+ -------:|:-------------------------
+ SoC     | Exynos 9820
+ CPU     | Dual-core (Custom CPU), Dual-core (Cortex®-A75), Quad-core (Cortex®-A55)
+ GPU     | ARM Mali™-G76 MP12
+ Storage and Memory  | 8GB RAM with 128GB internal storage, 8GB RAM with 512GB internal storage (Only ceramic models), 12GB RAM with 1TB internal storage (Only Performance Edition ceramic models)
+ Shipped Android Version | Android 9.0 (Pie); OneUI 1.1
+ Battery | Non-removable 4100mAh mAh battery
+ Dimensions | 157.6 x 74.1 x 7.8 mm
+ Display | 6.4" Quad HD+ Dynamic AMOLED, Infinity-O Display (3040x1440), 522 ppi, HDR10+ certified
+ Rear camera  | 12MP Telephoto Camera, 12MP Wide-angle Camera, 16MP Ultra Wide Camera
+ Front camera  | 10MP Selfie Camera, 8MP RGB Depth Camera
+
+
 How to build LineageOS
 ----------------------
 
