@@ -25,6 +25,8 @@ TARGET_OTA_ASSERT_DEVICE := beyond2,beyond2lte,beyond2ltexx
 
 TARGET_SPECIFIC_HEADER_PATH += $(DEVICE_PATH)/hardware/include
 
+DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/device_manifest.xml
+
 ### KERNEL
 ifeq ($(WITH_MAGISK),true)
   TARGET_KERNEL_CONFIG := exynos9820-beyond2lte_magisk_defconfig
