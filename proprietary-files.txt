@@ -59,7 +59,7 @@ system/lib64/libsomxwmv8d.so
 # FIXME END
 
 ### RIL
-init.rilmptcp.rc:system/etc/init/init.rilmptcp.rc
+init.rilmptcp.rc:system/init.rilmptcp.rc
 system/bin/eris
 system/bin/ikev2-client
 system/etc/init/init.rilepdg.rc
